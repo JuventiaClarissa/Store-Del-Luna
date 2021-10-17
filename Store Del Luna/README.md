@@ -1,0 +1,1 @@
+The Human-Computer Interaction course project is titled Store Del Luna. I did this project together with three of my friends. Store Del Luna is a well-known supplier of first-hand K-Pop merchandise. The aim of this project is to create a website and company logo for Store Del Luna.
